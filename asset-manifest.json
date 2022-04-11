@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactFolderStructure/static/css/main.5eb5c27f.css",
+    "main.js": "/ReactFolderStructure/static/js/main.15a172dd.js",
+    "index.html": "/ReactFolderStructure/index.html",
+    "main.5eb5c27f.css.map": "/ReactFolderStructure/static/css/main.5eb5c27f.css.map",
+    "main.15a172dd.js.map": "/ReactFolderStructure/static/js/main.15a172dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5eb5c27f.css",
+    "static/js/main.15a172dd.js"
+  ]
+}
