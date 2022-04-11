@@ -1,0 +1,8 @@
+.folder-container {
+    cursor: pointer;
+    margin: 10px 0 10px 0;
+}
+.file-name {
+    padding-left: 15px;
+    margin: 10px 0 10px 0;
+}
